@@ -1,0 +1,15 @@
+{
+  "name": "typescript-binary-search-tree",
+  "version": "1.0.0",
+  "description": "Implementation of Binary Search Tree in Typescript",
+  "main": "./build/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./build/index.js"
+  },
+  "author": "Sankeerthana",
+  "license": "ISC",
+  "dependencies": {
+    "esserializer": "^1.3.2"
+  }
+}
